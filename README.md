@@ -1,6 +1,9 @@
 # 💫 About Me:
-I’m currently working on ProfOMeter<br>🤝 I’m looking to collaborate on projects involving web development or data-driven applications<br>🙋‍♂️ I’m looking for help with optimizing algorithms and improving UI/UX design<br>🌱 I’m currently learning DSA and Design Concepts<br>💬 Ask me about C++, Problem Solving, and Java<br>
-
+🔭 I’m currently working on **ProfOMeter** <br>
+🤝 I’m looking to collaborate on **projects involving web development and data-driven applications** <br>
+🙋‍♂️ I’m looking for help with **algorithm optimization and UI/UX design improvements** <br>
+🌱 I’m currently learning **Data Structures & Algorithms (DSA)** and **Design Concepts** <br>
+💬 Ask me about **C++**, **Problem Solving**, and **Java** <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fusion07625) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-sharma509) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/FUSION5009) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YogeshKrSh15687) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Fusion509)
